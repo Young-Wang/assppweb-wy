@@ -29,6 +29,5 @@
   ],
   "vars": {
     "CONTAINER_INSTANCE_NAME": "main",
-  },
-  "send_metrics": false
+  }
 }
